@@ -7,7 +7,9 @@ Diabetic retinopathy is a complication of diabetes that affects the eyes. It occ
 
 The main file is [capstone.ipynb](capstone.ipynb). It contains EDA, feature importance analysis as well as several models' creation, tuning and comparison.
 
-In order to run this Jupyter notebook one must have Python 3.11 installed and `pipenv`. Once inside this cloned repo directory, execute `pipenv install`; this will install all the necessary dependecies to launch Jupyter and interact with this notebook. You may execute` pipenv shell` in order to swith context to the virtual environment created by pipenv. Execute `jupyter lab` in order to launch Jupyter.
+In order to run this Jupyter notebook one must have Python 3.11 installed and `pipenv`. Once inside this cloned repo directory, execute 
+`pipenv install` 
+this will install all the necessary dependecies to launch Jupyter and interact with this notebook. You may execute` pipenv shell` in order to swith context to the virtual environment created by pipenv. Execute `jupyter lab` in order to launch Jupyter.
 
 ### Cloud and local deployment
 
